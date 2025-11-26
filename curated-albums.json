@@ -1,3 +1,28 @@
 {
-  "albums": []
+  "albums": [
+    {
+      "id": "cosy-fall-living",
+      "title": "Cosy Fall Living",
+      "emoji": "🍂",
+      "description": "Warm, cosy picks for your living room this season.",
+      "shop": {
+        "label": "Zum Shop",
+        "url": "https://example.com/redirect/cosy-fall-living-shop"
+      },
+      "items": [
+        {
+          "id": "rattan-lounge-chair",
+          "title": "Rattan Lounge Chair",
+          "imageUrl": "https://example.com/images/rattan-chair.jpg",
+          "url": "https://example.com/redirect/rattan-lounge-chair"
+        },
+        {
+          "id": "chunky-knit-blanket",
+          "title": "Chunky Knit Blanket",
+          "imageUrl": "https://example.com/images/chunky-blanket.jpg",
+          "url": "https://example.com/redirect/chunky-knit-blanket"
+        }
+      ]
+    }
+  ]
 }
